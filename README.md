@@ -1,4 +1,4 @@
-# intellihack_raccoons_task2
+# Intent Classifier using Machine Learning
 
 This repository contains a Python-based intent classification system that leverages Natural Language Processing (NLP) techniques to identify user intents from text inputs. The implementation includes training a Support Vector Machine (SVM) model on an expanded dataset and provides a command-line interface for testing intent classification.
 
